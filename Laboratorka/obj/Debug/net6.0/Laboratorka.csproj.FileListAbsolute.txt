@@ -1,0 +1,15 @@
+D:\C#\Laboratorka\Laboratorka\bin\Debug\net6.0\Laboratorka.exe
+D:\C#\Laboratorka\Laboratorka\bin\Debug\net6.0\Laboratorka.deps.json
+D:\C#\Laboratorka\Laboratorka\bin\Debug\net6.0\Laboratorka.runtimeconfig.json
+D:\C#\Laboratorka\Laboratorka\bin\Debug\net6.0\Laboratorka.dll
+D:\C#\Laboratorka\Laboratorka\bin\Debug\net6.0\Laboratorka.pdb
+D:\C#\Laboratorka\Laboratorka\obj\Debug\net6.0\Laboratorka.csproj.AssemblyReference.cache
+D:\C#\Laboratorka\Laboratorka\obj\Debug\net6.0\Laboratorka.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Laboratorka\Laboratorka\obj\Debug\net6.0\Laboratorka.AssemblyInfoInputs.cache
+D:\C#\Laboratorka\Laboratorka\obj\Debug\net6.0\Laboratorka.AssemblyInfo.cs
+D:\C#\Laboratorka\Laboratorka\obj\Debug\net6.0\Laboratorka.csproj.CoreCompileInputs.cache
+D:\C#\Laboratorka\Laboratorka\obj\Debug\net6.0\Laboratorka.dll
+D:\C#\Laboratorka\Laboratorka\obj\Debug\net6.0\refint\Laboratorka.dll
+D:\C#\Laboratorka\Laboratorka\obj\Debug\net6.0\Laboratorka.pdb
+D:\C#\Laboratorka\Laboratorka\obj\Debug\net6.0\Laboratorka.genruntimeconfig.cache
+D:\C#\Laboratorka\Laboratorka\obj\Debug\net6.0\ref\Laboratorka.dll
